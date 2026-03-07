@@ -2,6 +2,8 @@
 
 An AI-powered system that analyzes ML paper reproducibility. Give it any arXiv URL — it extracts the full methodology with confidence scores, generates a runnable training script, and produces a reproducibility report.
 
+<img width="800" height="800" alt="demo" src="https://github.com/user-attachments/assets/8bc6a0e1-ec51-4723-b9c8-6dbc68334985" />
+
 ## What It Does
 
 1. **Parses** any arXiv paper (downloads PDF, extracts structured text)
